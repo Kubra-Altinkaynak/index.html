@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Kübra Altınkaynak</title>
+</head>
+<body>
+<!-- Ad-Soyad başlık kısmı-->
+<h1>Kübra Altınkaynak</h1>
+
+<div>
+    <img inline="#" src="https://picsum.photos/536/354" alt="Lorem Picsum Sitesi Resim" width="400">
+    <br>
+    <p>Resim açıklaması</p>
+    </div>
+
+<!-- Hakkımda alt başlık ve paragraf kısmı-->
+<h2><a href="#"> Hakkımda </a></h2>
+<p>Merhaba. Ben Kübra Altınkaynak. Aksaray'da yaşıyorum. Bilgisayar öğretmeniyim. Seyahat etmeyi, kitap okumayı ve film izlemeyi seviyorum. Kodlamayla ilgili kendimi geliştirmek ve bu alanda ilerlemek istiyorum. Patika.dev'e katılmaktan çok memnunum.</p>
+
+<!-- En sevdiğm kitaplar alt başlığı ve listelenmiş kitaplar kısmı-->
+
+<h2><a href="#">İlgi Alanlarım</a></h2>
+<ol>
+<li>Kitaplar
+    <ul>
+    <li>
+        <a href="https://www.goodreads.com/book/show/11413921-fareler-ve-i-nsanlar?ac=1&from_search=true&qid=jlQFhNGhBV&rank=1" target="_blank">
+        Fareler ve İnsanlar - John Steinbeck </a></li> 
+    <li>Satranç - Stefan Zweig</li>
+    <li>Simyacı - Paulo Coelho</li>
+    <li>Şeker Portakalı- Jose Mauro De Vasconcelos</li>
+    <li>Dönüşüm - Franz Kafka</li>
+</ul>
+</li>
+
+<li>Filmler
+<ul>
+    <li>
+        <a href="https://www.imdb.com/title/tt0109830/?ref_=nv_sr_srsg_0" alt="Forrest Gump İMDB" target="_blank" >
+        Forrest Gump </a></li>
+    <li>Life is Beautiful</li>
+    <li>Hachiko</li>
+</ul>
+</li>
+</ol>
+
+<!-- Şeker Portakalı hakkında alt başlık ve paragraf kısmı-->
+<h3><a href="#">Şeker Portakalı Hakkında</a></h3>
+<p>Şeker Portakalı, günün birinde acıyı keşfeden küçük bir çocuğun öyküsüdür.
+Gerçek dünyadan soyutlanıp hayaller dünyasında yaşayan Zeze yaramaz, haylaz, yerinde durmayan fakat zeki ve bir kadar duygusal bir çocuktur.
+Ailesinde görmediği sevgiyi ve ilgiyi başka şeylerde aramaya ve bulmaya başlamıştır.
+Yine de her zaman hayatında eksik bir şeyleri hep olmuştur</p>
+
+
+</body>
+</html>
